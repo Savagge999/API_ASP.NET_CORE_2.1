@@ -1,1 +1,2 @@
-# API_ASP.NET_CORE_2.1
+ASP.NET CORE MVC 2.1 do curso do Nélio Alvez.
+Apenas para estudo e documentação.
